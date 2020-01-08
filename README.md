@@ -1,5 +1,7 @@
 # MJPEG Test
 
+[**WEB**](https://tomashubelbauer.github.io/net-http-listener-mjpeg-stream)
+
 - `dotnet script init`
 - `dotnet script main.csx`
 
